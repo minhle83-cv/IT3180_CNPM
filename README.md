@@ -21,6 +21,6 @@ Xem thông tin tổng quan về số lượng người dùng và các giao dịc
 Xem báo cáo thống kê tổng quan của hệ thống theo thời gian.
 4. Yêu cầu phi chức năng
 - Bảo mật: Thông tin tài khoản và dữ liệu tài chính của người dùng được bảo vệ, người dùng chỉ có thể truy cập và quản lý dữ liệu của chính mình.
-- Dễ sử dụng:** Giao diện đơn giản, trực quan, các thao tác thêm và theo dõi thu chi dễ thực hiện, phù hợp với người dùng phổ thông.
+- Dễ sử dụng: Giao diện đơn giản, trực quan, các thao tác thêm và theo dõi thu chi dễ thực hiện, phù hợp với người dùng phổ thông.
 - Hiệu năng: Hệ thống có thời gian phản hồi nhanh đối với các thao tác cơ bản như đăng nhập, thêm giao dịch, tìm kiếm và xem thống kê.
 - Khả năng mở rộng: Hệ thống được thiết kế để có thể bổ sung thêm các chức năng như xuất báo cáo, thông báo nhắc nhở hoặc phân tích thói quen chi tiêu trong các phiên bản sau.
