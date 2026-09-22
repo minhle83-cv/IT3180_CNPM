@@ -6,7 +6,7 @@ Hệ thống có 2 nhóm người dùng chính:
 - Người dùng cá nhân:đăng ký tài khoản, quản lý thông tin cá nhân, ghi nhận các khoản thu chi, quản lý ngân sách, đặt mục tiêu tiết kiệm và theo dõi tình hình tài chính.
 - Quản trị viên:quản lý tài khoản người dùng, danh mục thu chi và theo dõi các thông tin tổng quan của hệ thống.
 3. Yêu cầu chức năng chính
-*Phân hệ Người dùng:
+- Phân hệ Người dùng:
 Đăng ký, đăng nhập, quản lý thông tin tài khoản cá nhân.
 Thêm, sửa, xóa và xem các giao dịch thu nhập, chi tiêu.
 Phân loại giao dịch theo các danh mục như ăn uống, mua sắm, học tập, đi lại, giải trí...
@@ -14,7 +14,7 @@ Thiết lập ngân sách chi tiêu theo tháng và theo từng danh mục.
 Thiết lập và theo dõi mục tiêu tiết kiệm cá nhân.
 Xem tổng thu nhập, tổng chi tiêu, số dư và thống kê chi tiêu theo thời gian dưới dạng bảng hoặc biểu đồ.
 Nhận cảnh báo khi chi tiêu gần hoặc vượt quá ngân sách đã thiết lập.
-*Phân hệ Quản trị viên:
+- Phân hệ Quản trị viên:
 Quản lý tài khoản người dùng.
 Quản lý các danh mục thu nhập và chi tiêu trong hệ thống.
 Xem thông tin tổng quan về số lượng người dùng và các giao dịch được thực hiện.
